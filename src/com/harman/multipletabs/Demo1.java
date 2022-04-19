@@ -34,7 +34,6 @@ public class Demo1 {
 		driver.findElement(By.id("input_go")).click();
 		
 		driver.close();
-
 	}
 
 }
